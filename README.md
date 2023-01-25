@@ -13,8 +13,7 @@ Here i create a TinDog web app with HealthBot. It is a demo web page for any org
 
 
 
-##video that i make to show my project:
-www.youtube.com/watch?v=XFhck3tH68k
+## video that i make to show my project: www.youtube.com/watch?v=XFhck3tH68k
 
 ## azure portal screen shot
 
