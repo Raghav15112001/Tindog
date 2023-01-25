@@ -1,6 +1,6 @@
 ## Future ready talent project by Raghav Shah
 ## Azure hosted website link  : https://ambitious-bay-0f9d79a10.2.azurestaticapps.net/
-# Azure Services Used : HealthBot and Static Web App
+### Azure Services Used : HealthBot and Static Web App
 Here i create a TinDog web app with HealthBot. It is a demo web page for any organization who want to create there static web page for giving reference to their work, use bot services and  host on Azure
 
 ![image](https://user-images.githubusercontent.com/83526473/214583881-66b1345f-879c-4018-a160-bc2f3fe2949d.png)
